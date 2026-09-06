@@ -1,10 +1,13 @@
 body {
    text-align: center;
    font-family: Happy Monkey;
+   color: #ffffff;
+   background-color: #a2d2ff;
 }
 
 #francis-photo {
    width: 150px;
    border-radius: 50%;
+   border: 5px solid #efb0c9;
 }
 
