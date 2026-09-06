@@ -15,9 +15,20 @@ h1, h2, h4 {
    text-shadow: 0 0 1px black;
 }
 
-h2, h4 {
+#bday-age {
    background-color: #efb0c9;
+   padding: 6px 4px;
+   border-radius: 6px;
+   margin-bottom: 6px;
 }
+
+#bday-date {
+   background-color: #efb0c9;
+   padding: 6px 4px;
+   border-radius: 6px;
+   margin-top: 4px;
+}
+
 
 #header {
   display: flex;
