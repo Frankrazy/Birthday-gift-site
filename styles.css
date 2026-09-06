@@ -11,3 +11,7 @@ body {
    border: 5px solid #efb0c9;
 }
 
+h1, h2, h4 {
+   text-shadow: 0 0 1px black;
+}
+
