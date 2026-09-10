@@ -11,7 +11,7 @@ body {
    border: 5px solid #efb0c9;
 }
 
-h1, h2, h4 {
+h1, h2, h3, h4 {
    text-shadow: 0 0 1px black;
 }
 
@@ -37,3 +37,20 @@ h1, h2, h4 {
   justify-content: center;
 }
 
+.gift-section {
+   margin-bottom: 50px;
+}
+
+.gift-title {
+   margin-bottom: 10px;
+}
+
+.gift-hint {
+   margin-top: 0;
+}
+
+.gift-img {
+   width: 400px;
+   border: 6px solid white;
+   border-radius: 10px;
+}
