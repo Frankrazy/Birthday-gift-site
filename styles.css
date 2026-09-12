@@ -49,7 +49,7 @@ h1, h2, h3, h4 {
    margin-top: 0;
 }
 
-.gift-img {
+#gift-img1 {
    width: 400px;
    height: 400px;
    background-image: url("images/gift-cover.jpg");
@@ -60,6 +60,21 @@ h1, h2, h3, h4 {
    border-radius: 10px;
 }
 
-.gift-img:hover {
+#gift-img1:hover {
    background: url("images/happy.gif");
+}
+
+#gift-img2 {
+   width: 400px;
+   height: 400px;
+   background-image: url("images/gift-cover.jpg");
+   background-size: cover;
+   margin-left: auto;
+   margin-right: auto;
+   border: 6px solid white;
+   border-radius: 10px;
+}
+
+#gift-img2:hover {
+   background: url("images/hot.gif");
 }
