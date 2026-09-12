@@ -52,10 +52,14 @@ h1, h2, h3, h4 {
 .gift-img {
    width: 400px;
    height: 400px;
-   background-image: url("images/gift-cver.jpg");
+   background-image: url("images/gift-cover.jpg");
    background-size: cover;
    margin-left: auto;
    margin-right: auto;
    border: 6px solid white;
    border-radius: 10px;
+}
+
+.gift-img:hover {
+   background: url("images/happy.gif");
 }
