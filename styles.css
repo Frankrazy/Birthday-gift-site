@@ -2,7 +2,7 @@ body {
    text-align: center;
    font-family: Happy Monkey;
    color: #ffffff;
-   background-color: #a2d2ff;
+   background: linear-gradient(#a2d2ff, pink);
 }
 
 #francis-photo {
